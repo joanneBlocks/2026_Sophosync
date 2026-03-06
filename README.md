@@ -39,7 +39,7 @@ pip install mediapipe opencv-python streamlit pynput pandas numpy
 
 ---
 
-## Demo Flow
+Demo Flow
 Start camera → gaze tracking live
 Start typing → focus score rises
 Dashboard shows real-time Focus Meter
@@ -49,14 +49,14 @@ End session → Focus DNA report
 
 ---
 
-## Privacy
+Privacy
 All processing is local.
 No video or biometric data is uploaded.
 Only behavioral signals are analyzed.
 
 ---
 
-## Author
+Author
 Joanne Costo
 Email: kristine@seriousbyte.com
 
