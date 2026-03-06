@@ -16,13 +16,13 @@ Analyzing **visual attention** & **typing behavior**, it estimates focus and bui
 ---
 
 ## Key Features
-- ** Flow State Detector:** See when you enter deep work  
-- ** Smart Distraction Alerts:** Notifies when focus drops  
-- ** Focus Timeline:** Track focus over time  
-- ** Focus DNA:** Discover your peak focus times & task strengths  
-- ** Learning Path Suggestions:** Personalized skill & career guidance  
-- ** Gamified Focus (Optional):** Earn streaks for deep work sessions  
-- ** Team Focus Mode (Optional):** Measure collective focus  
+- Flow State Detector: See when you enter deep work  
+- Smart Distraction Alerts: Notifies when focus drops  
+- Focus Timeline: Track focus over time  
+- Focus DNA: Discover your peak focus times & task strengths  
+- Learning Path Suggestions: Personalized skill & career guidance  
+- Gamified Focus (Optional): Earn streaks for deep work sessions  
+- Team Focus Mode (Optional): Measure collective focus  
 
 ---
 
